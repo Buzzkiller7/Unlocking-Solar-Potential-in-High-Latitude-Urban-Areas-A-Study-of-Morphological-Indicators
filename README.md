@@ -23,4 +23,4 @@ The findings of this research can provide valuable guidance in the early stages 
 - High latitude area
 - Urban design
 
-![Graphical Abstract](./images/Graphical Abstract.jpg)
+![Graphical Abstract](./images/Graphical_Abstract.jpg)
