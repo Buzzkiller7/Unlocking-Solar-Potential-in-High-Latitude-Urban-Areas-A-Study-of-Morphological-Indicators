@@ -23,4 +23,4 @@ The findings of this research can provide valuable guidance in the early stages 
 - High latitude area
 - Urban design
 
-![Graphical Abstract]("D:\Desktop\高纬度地区太阳能潜力与城市形态之间的关系\图2\work low.jpg")
+![Graphical Abstract](./images/Graphical Abstract.jpg)
