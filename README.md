@@ -3,7 +3,6 @@
 **Chen Yang, Senhong Cai, Zhonghua Gou\***
 _School of Urban Design, Wuhan University, Wuhan, China;_  
 _\*correspondence: zh.gou@whu.edu.cn_
-
 ## Abstract
 
 The complexity of urban form can have a significant impact on the utilization of solar energy. While numerous studies have examined the influence of urban form on solar potential, the optimization of solar energy use in cities located at high latitudes remains a challenging subject.
