@@ -1,4 +1,4 @@
-# The Relationship Between Solar Energy Potential and Urban Morphology at High Latitudes: A Study in Glasgow
+# Glasgow dataset
 
 **Chen Yang, Senhong Cai, Zhonghua Gou\***
 _School of Urban Design, Wuhan University, Wuhan, China;_  
