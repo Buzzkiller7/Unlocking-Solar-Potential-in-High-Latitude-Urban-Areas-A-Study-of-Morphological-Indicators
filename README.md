@@ -1,4 +1,4 @@
-# Glasgow dataset
+# Unlocking Solar Potential in High-Latitude Urban Areas: A Study of Morphological Indicators and Zero Energy Potential of Glasgow
 
 **Chen Yang, Senhong Cai, Zhonghua Gou\***
 _School of Urban Design, Wuhan University, Wuhan, China;_  
